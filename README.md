@@ -1,2 +1,4 @@
 # js.hinde_beginer
-learner
+This is js file
+<br>
+Auther - Anup Mandal(Pitangent)
